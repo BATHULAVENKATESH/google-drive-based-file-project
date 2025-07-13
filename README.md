@@ -39,10 +39,13 @@ cd google-drive-based-file-project
 •	Configure application.properties with your MySQL DB credentials.
 •	Create a folder named uploads in the backend root.
 •	Run the Spring Boot app.
+
+
 ✅ 3. Frontend Setup (React)
 cd google-drive-react
 npm install
 npm start
+
 ________________________________________
 🧪 API Endpoints
 Method	Endpoint	Description
